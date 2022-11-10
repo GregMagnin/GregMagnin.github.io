@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/quizzos/sw.js', { scope: '/quizzos/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://gregmagnin.github.io/quizzos/sw.js', { scope: 'https://gregmagnin.github.io/quizzos/' })})}
