@@ -12,7 +12,7 @@
         <img class="arrow" src="assets/fleche.svg" alt="la fleche" />
     </section>
     <div id="lobby"></div> 
-`,after_render:async()=>{let s=await a(()=>import("./jaw.bdb0e742.js"),[]),i=document.getElementById("homepage");i.innerHTML+=s.default;let o="?OpeningAnimation",r=document.location.search;if(await a(()=>import("./openingPageAnimation.1438cee1.js"),["assets/openingPageAnimation.1438cee1.js","assets/index.88fa00fc.js"]),location.href="#",r!==o){const n=document.querySelector(".teeth-form-up"),u=document.querySelector(".rectangle-form-top"),_=document.querySelector(".teeth-form-down"),l=document.querySelector(".rectangle-form-bottom");n.style.display="none",_.style.display="none",u.style.display="none",l.style.display="none"}let t=document.getElementById("started"),e=await a(()=>import("./rotateFall.06667e00.js"),[]);t.addEventListener("click",async()=>{await e.default()})}},S=Object.freeze(Object.defineProperty({__proto__:null,default:v},Symbol.toStringTag,{value:"Module"})),y={render:async()=>`
+`,after_render:async()=>{let s=await a(()=>import("./jaw.bdb0e742.js"),[]),i=document.getElementById("homepage");i.innerHTML+=s.default;let o="?OpeningAnimation",r=document.location.search;if(await a(()=>import("./openingPageAnimation.1438cee1.js"),["assets/openingPageAnimation.1438cee1.js","assets/index.88fa00fc.js"]),location.href="#",r!==o){const n=document.querySelector(".teeth-form-up"),u=document.querySelector(".rectangle-form-top"),_=document.querySelector(".teeth-form-down"),l=document.querySelector(".rectangle-form-bottom");n.style.display="none",_.style.display="none",u.style.display="none",l.style.display="none"}let t=document.getElementById("started"),e=await a(()=>import("./rotateFall.2d88b635.js"),[]);t.addEventListener("click",async()=>{await e.default()})}},S=Object.freeze(Object.defineProperty({__proto__:null,default:v},Symbol.toStringTag,{value:"Module"})),y={render:async()=>`
 <section id="lobbypage" class="lobby-page">
     <div class="square"></div>
     <div class="circle"></div>
@@ -29,7 +29,7 @@
 <div id="timer"></div>
 
 
-`,after_render:async()=>{let s=document.getElementById("category"),i=document.getElementById("difficulty"),o=document.getElementById("numbers-of-questions"),r=await a(()=>import("./scaleDownFromTop.6828ec61.js"),[]);s.addEventListener("click",async()=>{await r.default("categories")}),i.addEventListener("click",async()=>{await r.default("levels")}),o.addEventListener("click",async()=>{await r.default("nbQuestions")});let t=document.getElementById("start-quiz"),e=await a(()=>import("./rotateFallLeft.f9754abd.js"),[]);t.addEventListener("click",async n=>{await e.default()})}},R=Object.freeze(Object.defineProperty({__proto__:null,default:y},Symbol.toStringTag,{value:"Module"})),f={render:async()=>`
+`,after_render:async()=>{let s=document.getElementById("category"),i=document.getElementById("difficulty"),o=document.getElementById("numbers-of-questions"),r=await a(()=>import("./scaleDownFromTop.f9570c82.js"),[]);s.addEventListener("click",async()=>{await r.default("categories")}),i.addEventListener("click",async()=>{await r.default("levels")}),o.addEventListener("click",async()=>{await r.default("nbQuestions")});let t=document.getElementById("start-quiz"),e=await a(()=>import("./rotateFallLeft.f193a16e.js"),[]);t.addEventListener("click",async n=>{await e.default()})}},R=Object.freeze(Object.defineProperty({__proto__:null,default:y},Symbol.toStringTag,{value:"Module"})),f={render:async()=>`
 <section id='level' class="level-page">
   <div class="green-circle-top-left"></div>
   <div class="green-circle-right"></div>
@@ -91,7 +91,7 @@
     <div class="answers" id="answers"></div>
     <div class="loader"></div>
 </section>
-`,after_render:async()=>{await(await a(()=>import("./questions.9b451b7a.js"),[])).default()}},I=Object.freeze(Object.defineProperty({__proto__:null,default:E},Symbol.toStringTag,{value:"Module"})),h={render:async()=>`
+`,after_render:async()=>{await(await a(()=>import("./questions.5439530b.js"),[])).default()}},I=Object.freeze(Object.defineProperty({__proto__:null,default:E},Symbol.toStringTag,{value:"Module"})),h={render:async()=>`
         <section class="result" id="js-result-section">
           <div class="result__preview">
             <p>RESULT</p>
