@@ -367,29 +367,7 @@
 		},
 		"correct_answer": "answer_b"
     },
-	{
-		"id": 17,
-		"question": "Quelle est la bonne ortographe ?",
-		"description": null,
-		"answers": {
-			"answer_a": "Notament",
-			"answer_b": "Nottament",
-			"answer_c": "Notamment",
-			"answer_d": "Nottamment",
-			"answer_e": null,
-			"answer_f": null
-		},
-		"multiple_correct_answers": "false",
-		"correct_answers": {
-			"answer_a_correct": "false",
-			"answer_b_correct": "false",
-			"answer_c_correct": "true",
-			"answer_d_correct": "false",
-			"answer_e_correct": "false",
-			"answer_f_correct": "false"
-		},
-		"correct_answer": "answer_c"
-    },
+	
 	{
 		"id": 18,
 		"question": "Dans quel pays peut-on trouver la Catalogne ?",
