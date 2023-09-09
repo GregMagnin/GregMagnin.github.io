@@ -596,6 +596,370 @@
 			"answer_f_correct": "false"
 		},
 		"correct_answer": "answer_b"
-    }
+    },
+
+	{
+		"id": 27,
+		"question": "Qui est l'auteur de la pièce de théâtre 'Roméo et Juliette' ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Molière",
+			"answer_b": "William Shakespeare",
+			"answer_c": "Anton Tchekhov",
+			"answer_d": "George Bernard Shaw",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+
+	{
+		"id": 28,
+		"question": "Quel joueur de tennis a remporté le plus de titres en Grand Chelem dans l'histoire du tennis masculin ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Rafael Nadal",
+			"answer_b": "Roger Federer",
+			"answer_c": "Novak Djokovic",
+			"answer_d": "Pete Sampras",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_c"
+	},
+
+	{
+		"id": 29,
+		"question": "Quel événement a marqué la fin de la Guerre froide en 1991 ?",
+		"description": null,
+		"answers": {
+			"answer_a": "La chute du Mur de Berlin",
+			"answer_b": "La Révolution cubaine",
+			"answer_c": "L'assassinat de John F. Kennedy",
+			"answer_d": "La Guerre du Golfe",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+
+	{
+		"id": 30,
+		"question": "Quelle est la capitale du Canada ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Ottawa",
+			"answer_b": "Toronto",
+			"answer_c": "Montréal",
+			"answer_d": "Vancouver",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+
+	{
+		"id": 31,
+		"question": "Quel compositeur autrichien est célèbre pour ses symphonies et ses opéras, notamment 'La Flûte enchantée' et 'Les Noces de Figaro' ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Johann Sebastian Bach",
+			"answer_b": "Ludwig van Beethoven",
+			"answer_c": "Wolfgang Amadeus Mozart",
+			"answer_d": "Franz Schubert",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_c"
+	},
+
+	{
+		"id": 32,
+		"question": "Quelle œuvre de Shakespeare est surnommée la 'pièce impossible' en raison de sa longueur ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Roméo et Juliette",
+			"answer_b": "Hamlet",
+			"answer_c": "Othello",
+			"answer_d": "Le Roi Lear",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_d"
+	},
+
+	{
+		"id": 33,
+		"question": "Combien de titres mondiaux de Formule 1 a remportés Michael Schumacher au cours de sa carrière ?",
+		"description": null,
+		"answers": {
+			"answer_a": "5",
+			"answer_b": "7",
+			"answer_c": "9",
+			"answer_d": "11",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+	
+	{
+		"id": 34,
+		"question": "Quel empereur romain a construit le mur d'Hadrien en Grande-Bretagne ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Jules César",
+			"answer_b": "Auguste",
+			"answer_c": "Trajan",
+			"answer_d": "Hadrien",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_d"
+	},
+	
+	{
+		"id": 35,
+		"question": "Quel homme politique russe a dirigé l'Union soviétique pendant la majeure partie de la Guerre froide ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Vladimir Poutine",
+			"answer_b": "Boris Eltsine",
+			"answer_c": "Joseph Staline",
+			"answer_d": "Mikhaïl Gorbatchev",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_c"
+	},
+
+	
+	{
+		"id": 36,
+		"question": "Quel pays est situé à la fois en Asie et en Europe ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Turquie",
+			"answer_b": "Russie",
+			"answer_c": "Grèce",
+			"answer_d": "Kazakhstan",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+
+	{
+		"id": 37,
+		"question": "Quelle chaîne YouTube française est célèbre pour ses vidéos humoristiques et ses parodies de films ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Le Woop",
+			"answer_b": "Golden Moustache",
+			"answer_c": "Studio Bagel",
+			"answer_d": "Le Fossoyeur de Films",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+	
+
+	{
+		"id": 38,
+		"question": "Quel artiste italien est considéré comme le pionnier de la Renaissance ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Raphaël",
+			"answer_b": "Leonardo da Vinci",
+			"answer_c": "Botticelli",
+			"answer_d": "Michel-Ange",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+
+	{
+		"id": 39,
+		"question": "Quelle équipe nationale de football a remporté le plus grand nombre de Coupes du Monde de la FIFA ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Allemagne",
+			"answer_b": "Brésil",
+			"answer_c": "Italie",
+			"answer_d": "Argentine",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+
+	{
+		"id": 40,
+		"question": "Quelle bataille célèbre a eu lieu le 18 juin 1815, mettant fin à l'ère napoléonienne en Europe ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Bataille d'Austerlitz",
+			"answer_b": "Bataille de Leipzig",
+			"answer_c": "Bataille de Waterloo",
+			"answer_d": "Bataille de Trafalgar",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_c"
+	},
+
+	{
+		"id": 41,
+		"question": "Quel président américain a été assassiné à l'Ford's Theatre de Washington, D.C. en 1865 ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Abraham Lincoln",
+			"answer_b": "John F. Kennedy",
+			"answer_c": "Theodore Roosevelt",
+			"answer_d": "Andrew Johnson",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+
+	{
+		"id": 42,
+		"question": "Quel compositeur autrichien a écrit la Symphonie n°9 en ré mineur, également connue sous le nom de 'Symphonie du Nouveau Monde' ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Wolfgang Amadeus Mozart",
+			"answer_b": "Ludwig van Beethoven",
+			"answer_c": "Antonín Dvořák",
+			"answer_d": "Johann Sebastian Bach",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_c"
+	},
+
+	{
+		"id": 43,
+		"question": "Combien de Grands Prix de Formule 1 a remportés Juan Manuel Fangio au cours de sa carrière ?",
+		"description": null,
+		"answers": {
+			"answer_a": "10",
+			"answer_b": "15",
+			"answer_c": "24",
+			"answer_d": "32",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+
+	{
+		"id": 44,
+		"question": "Quel philosophe grec est considéré comme le fondateur de la philosophie occidentale ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Socrate",
+			"answer_b": "Aristote",
+			"answer_c": "Platon",
+			"answer_d": "Héraclite",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+
+	{
+		"id": 45,
+		"question": "Quel président américain a reçu le prix Nobel de la paix en 2009 pour ses efforts en faveur du désarmement nucléaire ?",
+		"description": null,
+		"answers": {
+			"answer_a": "George W. Bush",
+			"answer_b": "Barack Obama",
+			"answer_c": "Bill Clinton",
+			"answer_d": "Jimmy Carter",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+
+	{
+		"id": 46,
+		"question": "Quel est le point le plus élevé de la Terre, situé dans l'Himalaya, entre le Népal et la Chine ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Mont Everest",
+			"answer_b": "Mont Kilimandjaro",
+			"answer_c": "Mont McKinley",
+			"answer_d": "Mont Fuji",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+	
+	{
+		"id": 47,
+		"question": "Quelle chaîne YouTube française est spécialisée dans les vidéos de vulgarisation scientifique et est animée par un astrophysicien célèbre ?",
+		"description": null,
+		"answers": {
+			"answer_a": "E-penser",
+			"answer_b": "Cyrus North",
+			"answer_c": "DirtyBiology",
+			"answer_d": "Axolot",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	},
+	
+	{
+		"id": 48,
+		"question": "Quel mouvement artistique du XXe siècle est associé à Salvador Dalí et René Magritte et se caractérise par des œuvres surréalistes ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Cubisme",
+			"answer_b": "Impressionnisme",
+			"answer_c": "Surréalisme",
+			"answer_d": "Fauvisme",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_c"
+	},
+
+
+	{
+		"id": 49,
+		"question": "Combien de fois Usain Bolt, le sprinteur jamaïcain, a-t-il remporté la médaille d'or olympique sur 100 mètres ?",
+		"description": null,
+		"answers": {
+			"answer_a": "1 fois",
+			"answer_b": "2 fois",
+			"answer_c": "3 fois",
+			"answer_d": "4 fois",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_b"
+	},
+	
+	{
+		"id": 50,
+		"question": "Quel roi d'Égypte a ordonné la construction des pyramides de Gizeh, y compris la Grande Pyramide ?",
+		"description": null,
+		"answers": {
+			"answer_a": "Khéops",
+			"answer_b": "Toutânkhamon",
+			"answer_c": "Ramsès II",
+			"answer_d": "Akhenaton",
+			"answer_e": null,
+			"answer_f": null
+		},
+		"correct_answer": "answer_a"
+	}
+	
 	
 ]
