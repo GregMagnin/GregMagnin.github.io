@@ -611,6 +611,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 
@@ -627,6 +635,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_c"
 	},
 
@@ -643,6 +659,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 
@@ -659,6 +683,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 
@@ -675,6 +707,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_c"
 	},
 
@@ -691,6 +731,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_d"
 	},
 
@@ -707,6 +755,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 	
@@ -723,6 +779,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "false",
+			"answer_d_correct": "true",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_d"
 	},
 	
@@ -739,6 +803,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_c"
 	},
 
@@ -756,6 +828,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 
@@ -772,6 +852,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 	
@@ -789,6 +877,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 
@@ -805,6 +901,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 
@@ -821,6 +925,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_c"
 	},
 
@@ -837,6 +949,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 
@@ -853,6 +973,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_c"
 	},
 
@@ -869,6 +997,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 
@@ -885,6 +1021,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 
@@ -901,6 +1045,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 
@@ -917,6 +1069,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 	
@@ -933,6 +1093,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	},
 	
@@ -949,6 +1117,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "false",
+			"answer_c_correct": "true",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_c"
 	},
 
@@ -966,6 +1142,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+			"answer_a_correct": "false",
+			"answer_b_correct": "true",
+			"answer_c_correct": "false",
+			"answer_d_correct": "false",
+			"answer_e_correct": "false",
+			"answer_f_correct": "false"
+		},
 		"correct_answer": "answer_b"
 	},
 	
@@ -982,6 +1166,14 @@
 			"answer_f": null
 		},
 		"multiple_correct_answers": "false",
+		"correct_answers": {
+            "answer_a_correct": "true",
+            "answer_b_correct": "false",
+            "answer_c_correct": "false",
+            "answer_d_correct": "false",
+            "answer_e_correct": "false",
+            "answer_f_correct": "false"
+        },
 		"correct_answer": "answer_a"
 	}
 	
