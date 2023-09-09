@@ -610,6 +610,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 
@@ -625,6 +626,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_c"
 	},
 
@@ -640,6 +642,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 
@@ -655,6 +658,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 
@@ -670,6 +674,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_c"
 	},
 
@@ -685,6 +690,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_d"
 	},
 
@@ -700,6 +706,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 	
@@ -715,6 +722,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_d"
 	},
 	
@@ -730,6 +738,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_c"
 	},
 
@@ -746,6 +755,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 
@@ -761,6 +771,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 	
@@ -777,6 +788,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 
@@ -792,6 +804,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 
@@ -807,6 +820,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_c"
 	},
 
@@ -822,6 +836,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 
@@ -837,6 +852,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_c"
 	},
 
@@ -852,6 +868,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 
@@ -867,6 +884,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 
@@ -882,6 +900,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 
@@ -897,6 +916,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 	
@@ -912,6 +932,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	},
 	
@@ -927,6 +948,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_c"
 	},
 
@@ -943,6 +965,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_b"
 	},
 	
@@ -958,6 +981,7 @@
 			"answer_e": null,
 			"answer_f": null
 		},
+		"multiple_correct_answers": "false",
 		"correct_answer": "answer_a"
 	}
 	
